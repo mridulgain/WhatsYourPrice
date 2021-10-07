@@ -4,7 +4,6 @@ from psycopg2 import Error
 import time
 
 DATABASE_URL = os.environ['DATABASE_URL']
-# DATABASE_URL = "postgres://jhijqgkjhcmvqu:e4eacaa73b15582dd320d7db81d2f568a5476b244ece40b29651c0fc472df08a@ec2-54-217-195-234.eu-west-1.compute.amazonaws.com:5432/d5s779d5okj8h3"
 
 def record_price(p):
     try:
