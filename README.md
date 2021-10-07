@@ -1,2 +1,2 @@
 # WhatsYourPrice
-check prices on e-commerce sites
+check price of an item on e-commerce sites
